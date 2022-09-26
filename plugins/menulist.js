@@ -197,12 +197,12 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} ▮𝗦𝘁𝗮𝘁𝘂𝘀 」 ${htka}`,
 	rows: [
-	    {title: `📛)ഒ Info Bot`, rowId: ".info", description: "✧ Info nya Fangz BOT ><"},
+	    {title: `📛)ഒ Info Bot`, rowId: ".info", description: "✧ Info nya Ditya BOT ><"},
 	    {title: `💌)ഒ Owner`, rowId: ".owner", description: "✧ Ini Room Developer ku ^~^"},
 	{title: `🗣)ഒ Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
-	{title: `💻)ഒ Bot Stats`, rowId: ".botinfo", description: "✧ Menampilkan Status 赤 FANGZ - BOT"},
+	{title: `💻)ഒ Bot Stats`, rowId: ".botinfo", description: "✧ Menampilkan Status 赤 DITYA - BOT"},
 	{title: `📊)ഒ Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
-	{title: `⚡)ഒ Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 FANGZ - BOT..."},
+	{title: `⚡)ഒ Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 DITYA - BOT..."},
 	]
     },{
 	title: `${htki} ▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」 ${htka}`,
@@ -272,7 +272,7 @@ let usrs = db.data.users[m.sender]
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
  
 let tek = `
-  「 FANGZBOT-MD ⁩㊣ 」
+  「 DITYABOT-MD ⁩㊣ 」
 
  ╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣ 
  │⬡ User :  *${await conn.getName(m.sender)}*
@@ -294,7 +294,7 @@ let tek = `
 `
 const listMessage = {
   text: tek,
-  footer: '© FANGZ XD | ALL RESERVED',
+  footer: '© DITYA XD | ALL RESERVED',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `LIST MENU`,
@@ -559,10 +559,10 @@ await conn[_0x187932(0x1c2)](m[_0x187932(0x1cf)], buttonMessage, {
 	return conn.sendButton(m.chat, text, wm, img2, [["🥞MENU", _p + "menu"], ["🌸SCRIPT", _p + "sc"]], m, {
         contextInfo: {
             externalAdReply: {
-                mediaUrl: "https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=",
+                mediaUrl: "https://instagram.com/q.c.ditya",
                 mediaType: "VIDEO",
                 title: '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦',
-                body: 'Source Code By FangzXD',
+                body: 'Source Code By DityaAstawa',
                 previewType: 0,
                 thumbnail: img
             }
@@ -586,12 +586,12 @@ function _0x1766() {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By Fangz TEAM',
+            footer: titlebot + '\n⚡ Supported By Ditya TEAM',
             templateButtons: [
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://fangzbot.websites.co.in/'
+                        url: 'https://dityaastawa.github.io/'
                     }
                 },
                 {
