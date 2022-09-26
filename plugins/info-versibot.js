@@ -13,19 +13,19 @@ const message = {
                 {
                     urlButton: {
                         displayText: 'Download Sc',
-                        url: 'https://bit.ly/3SzhgLV'
+                        url: 'https://wa.me/6285237596750'
                     }
                 },
                 {
                     urlButton: {
                         displayText: 'Ke YouTube',
-                        url: 'https://youtu.be/UOL_t5iwOPo',
+                        url: 'gak punya',
                     }
                 },
             ]
         }
         conn.sendMessage(m.chat, message)
-conn.reply(m.chat, info, m, { contextInfo: { externalAdReply: {title: global.wm, body: 'Script By FangzXD', sourceUrl: snh, thumbnail: fs.readFileSync('./thumbnail.jpg')  }}})
+conn.reply(m.chat, info, m, { contextInfo: { externalAdReply: {title: global.wm, body: 'Script By DityaAstawa', sourceUrl: snh, thumbnail: fs.readFileSync('./thumbnail.jpg')  }}})
 }
 handler.help = ['cekversi']
 handler.tags = ['info']

@@ -9,7 +9,7 @@ export async function before(m) {
 ${user.banned ? '📮Maaf, kamu dibanned & Tidak bisa menggunakan bot ini lagi' : `💬 Terima kasih sudah menggunakan ${this.user.name} bantu?`}`.trim()
 
     if (new Date() - user.pc < 21600000) return // waktu ori 21600000 (6 jam)
-    await this.sendButton(m.chat, txt, user.banned ? wm : '📮Note: Jangan spal bot nya\nAtau kamu di banned', [user.banned ? 'OKE 🙂' : '🌸 MENU' user.banned ? 'Ok' : '.menu'], m)
+    await this.sendButton(m.chat, txt, user.banned ? wm : '📮Note: Jangan spam bot nya\nAtau kamu di banned', [user.banned ? 'OKE 🙂' : '🌸 MENU' user.banned ? 'Ok' : '.menu'], m)
     user.pc = new Date * 1
 }
 

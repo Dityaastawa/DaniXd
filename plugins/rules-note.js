@@ -18,7 +18,7 @@ _Kebijakan privasi atau Private without being in public_
 
 • Jika ada bug/eror di website kami saya mohon untuk Report nya, tanpa biaya dan aman
 
-_Cara penggunaan Fangz BOT Agar terhindar dari Suspand_
+_Cara penggunaan Ditya BOT Agar terhindar dari Suspand_
 
 • *Peraturan WhatsApp Bot:*
 1. Users dilarang menelpon maupun memvideo call nomor bot.
@@ -45,7 +45,7 @@ _Cara penggunaan Fangz BOT Agar terhindar dari Suspand_
 5. WhatsApp Bot bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Youtube', url: 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg'}},
+    {index: 1, urlButton: {displayText: 'Youtube', url: 'https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg'}},
 ]
 let tm = {
 text: text,

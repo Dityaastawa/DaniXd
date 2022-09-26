@@ -12,15 +12,15 @@ const sections = [
    {
     title: `✃ INFO`,
 	rows: [
-	    {title: "🔮WhatsApp Imune 1", rowId: '.waimune1', description: 'Jangan lupa Subs Yt FANGZ BOT' },
-	    {title: "🔮WhatsApp Imune 2", rowId: '.waimune2', description: 'Jangan lupa subs Yt FANGZ BOT' },
-	{title: "🔮WhatsApp Gb Kebal 1", rowId: '.wagb1', description: 'Jangan lupa subs Yt FANGZ BOT' },
+	    {title: "🔮WhatsApp Imune 1", rowId: '.waimune1', description: 'Jangan lupa Subs Yt DITYA BOT' },
+	    {title: "🔮WhatsApp Imune 2", rowId: '.waimune2', description: 'Jangan lupa subs Yt DITYA BOT' },
+	{title: "🔮WhatsApp Gb Kebal 1", rowId: '.wagb1', description: 'Jangan lupa subs Yt DITYA BOT' },
 	{title: "🔮WhatsApp Gb Kebal 2", rowId: '.wagb2', description: 'Download WhatsApp Kebal' },
 	]
     }, {
     title: `✃ BUY`,
 	rows: [
-	    {title: "😈Fangz", rowId: '.owner', description: 'Pembuat Bot' },
+	    {title: "😈Ditya", rowId: '.owner', description: 'Pembuat Bot' },
 	    ]
         },
 ]

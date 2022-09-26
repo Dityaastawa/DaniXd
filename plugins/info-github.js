@@ -1,11 +1,11 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
-let info = `📮 *SC ADA DI GITHUB JNGN LUPA FOLLOW*
+let info = `📮 *SC CHAT GUA DI WA*
 
 Atau Bisa Lewat Link Dibawah Ini :
-https://github.com/Fangzbotz2007
+https://wa.me/6285237596750
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*FANGZ BOT GITHUB*', 'status@broadcast') 
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*DITYA BOT GITHUB*', 'status@broadcast') 
 }
 handler.help = ['github']
 handler.tags = ['info']
