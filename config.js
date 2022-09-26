@@ -30,41 +30,41 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/danibotz_official' //Instagram mu
-global.sgh = 'https://github.com/YTDANIBOTZ' //Github mu
-global.swb = 'https://fangzbot.websites.co.in'
+global.sig = 'https://instagram.com/q.c.ditya' //Instagram mu
+global.sgh = 'https://github.com/Dityarunz' //Github mu
+global.swb = 'https://dityaastawa.github.io/'
 global.sfb = 'https://www.facebook.com/'
 global.syt = 'https://www.youtube.com/'
-global.syt = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //YT Mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
+global.syt = 'https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg' //YT Mu
+global.sgc = 'https://chat.whatsapp.com/ItmAE6roJjQIOru4wqkYQz' //Group WhatsApp mu
+global.sdc = 'https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '081251549899' //Dana
-global.povo = '081352848936' //Ovo
-global.pgopay = '081352848936' //Gopay
-global.ppulsa = '081251549899' //Pulsa 
-global.ppulsa2 = '081352848936' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '085792429140' //Dana
+global.povo = '085738153140' //Ovo
+global.pgopay = '085792429140' //Gopay
+global.ppulsa = '085792429140' //Pulsa 
+global.ppulsa2 = '-' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 081352848936\n│┝‷✧ *Dana:* 081251549899\n│┝‷✧ *Gopay:* 081352848936\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 085738153140\n│┝‷✧ *Dana:* 085792429140\n│┝‷✧ *Gopay:* 085792429140\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6281352848936' //Nomor Bot mu
-global.nomorown = '6281251549899' //Nomormu
-global.namebot = 'Dani BOT' //Nama bot mu
-global.nameown = 'DaniXd' //Nama mu
+global.nomorbot = '6285792429140' //Nomor Bot mu
+global.nomorown = '6285237596750' //Nomormu
+global.namebot = 'Ditya BOT' //Nama bot mu
+global.nameown = 'DityaAstawa' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
-global.swo = 'https://wa.me/6281251549899' //Nomor mu
-global.linksc = 'https://bit.ly/3PqdYYS' //Gausah di ganti, biar ga eror
+global.swo = 'https://wa.me/6285237596750' //Nomor mu
+global.linksc = 'https://wa.me/6285237596750' //Gausah di ganti, biar ga eror
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.botclick = '𝍤 CLICK HERE' //Bebas, Kalau gw saranin mending gausah di ganti.
-global.after = 'Bot by https://bit.ly/3QJOy9F'
-global.author = '                © Dani BOT By DaniXd' //Wm author
-global.acguest = 'Kamu akan Menggunakan akun guest dari DaniXD\n\nClick Button di bawah.'
-global.botintro = 'Hallo, Kenalin saya Dani BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *DaniXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.after = 'Bot by ditya'
+global.author = '                © Dani BOT By DityaAstawa' //Wm author
+global.acguest = 'Kamu akan Menggunakan akun guest dari DityaAstawa\n\nClick Button di bawah.'
+global.botintro = 'Hallo, Kenalin saya Ditya BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *DityaAstawa* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sc = 'https://telegra.ph/file/ff583768b40239651d69d.jpg'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
@@ -89,10 +89,10 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281251549899'], //Owner1
-  ['6281348106274'], //Owner2
-  ['6281352848936'], //Owner3
-  ['6281251549899', 'DANI ! 🥶', true] //Ini buat kamu!
+  ['6285237596750'], //Owner1
+  ['6285237596750'], //Owner2
+  ['6285237596750'], //Owner3
+  ['6285237596750', 'Ditya ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -145,13 +145,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 DANI - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Dani - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 DANI - BOT'
+global.wm = '                「 赤 DITYA - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Ditya - Botz❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 DITYA - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: DaniXD' //Ganti serah lu
+global.titlebot = '𝗬𝗧: DityaAstawa' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -501,9 +501,9 @@ global.fpagedoc = '1'.repeat(10)
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: DaniBotz'
-global.stickauth = `© Dani BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By DaniXD'
+global.stickpack = 'YT: DityaBotz'
+global.stickauth = `© Ditya BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By DityaAstawa'
 
 global.multiplier = 38 // The higher, The harder levelup
 
